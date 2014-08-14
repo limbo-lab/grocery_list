@@ -1,2 +1,2 @@
-~Store~
 Sto
+Store
