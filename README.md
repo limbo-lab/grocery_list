@@ -1,2 +1,1 @@
-~grocery_list~
 Store
